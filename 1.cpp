@@ -1,14 +1,17 @@
-#include<bits/stdc++.h>
-using namespace std;
+#include <bits/stdc++.h>
 
+using namespace std;
 #define ll long long
 
 int main(){
-	ll t;
-	cin>>t;
-	while(t--){
+    ll t;
+    cin>>t;
+    while(t--){
 
-		cout<<endl;
-	}
 
+    	
+    	cout<<endl;
+    }
+
+    return 0;
 }
